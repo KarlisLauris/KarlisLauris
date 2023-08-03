@@ -14,7 +14,7 @@ You can use the website to generate badges: https://shields.io/
 
 - I’m currently working on __[Flight Planner](https://github.com/KarlisLauris/flight-planner)__.
 - I’m currently learning __Java__, __JavaScript/TypeScript__, & __Ruby__.
-- How to reach me: __karlislauris@gmail.com or my linkedin__
+- How to reach me: __karlislauris@gmail.com or my LinkedIn__
 
 ---
 
