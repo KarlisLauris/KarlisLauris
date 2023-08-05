@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karlis Lauris Simanovics</h1>
-<h3 align="center">A passionate fullstack developer from Latvia looking to find new opportunities</h3>
+<h3 align="center">A fullstack developer from Latvia looking to find new opportunities and challenges</h3>
 
 - 🔭 I’m currently working on [Simple QR Code Generator](https://github.com/KarlisLauris/Simple-QR-Code-Generator)
 
